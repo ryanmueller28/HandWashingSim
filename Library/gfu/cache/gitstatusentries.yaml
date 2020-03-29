@@ -13,15 +13,140 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-28T20:45:12.796-05:00
+  lastUpdatedAtString: 2020-03-28T20:57:14.513-05:00
   initializedAtString: 2020-03-28T20:36:24.803-05:00
   entries:
-  - path: Library\ArtifactDB-lock
-    fullPath: D:\Unity Projects\WashYourHands\Library\ArtifactDB-lock
-    projectPath: Library\ArtifactDB-lock
+  - path: Assembly-CSharp.csproj
+    fullPath: D:\Unity Projects\WashYourHands\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scripts\WashHands-GameJam-495-master.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Anterior Hand.mdp
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH\Anterior Hand.mdp
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Anterior
+      Hand.mdp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Anterior Hand.mdp.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH\Anterior Hand.mdp.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Anterior
+      Hand.mdp.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Posterior Hand.mdp
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH\Posterior Hand.mdp
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Posterior
+      Hand.mdp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Posterior Hand.mdp.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH\Posterior Hand.mdp.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Posterior
+      Hand.mdp.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Soaps.mdp
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH\Soaps.mdp
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Soaps.mdp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Soaps.mdp.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Assets
+      for WYH\Soaps.mdp.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Assets for WYH\Soaps.mdp.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Different-Stages.txt
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Different-Stages.txt
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Different-Stages.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\Different-Stages.txt.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\Different-Stages.txt.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\Different-Stages.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\README.md
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\README.md
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\README.md
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\WashHands-GameJam-495-master\README.md.meta
+    fullPath: D:\Unity Projects\WashYourHands\Assets\Scripts\WashHands-GameJam-495-master\README.md.meta
+    projectPath: Assets\Scripts\WashHands-GameJam-495-master\README.md.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4ef664df11d1ba5f15edd5bc214812a5
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\4e\4ef664df11d1ba5f15edd5bc214812a5
+    projectPath: Library\Artifacts\4e\4ef664df11d1ba5f15edd5bc214812a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\79\79a6ff1d9b16a582c3ee748185ce79be
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\79\79a6ff1d9b16a582c3ee748185ce79be
+    projectPath: Library\Artifacts\79\79a6ff1d9b16a582c3ee748185ce79be
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\80\808cde555a78f7fa7079a8b384e9a736
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\80\808cde555a78f7fa7079a8b384e9a736
+    projectPath: Library\Artifacts\80\808cde555a78f7fa7079a8b384e9a736
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a69a1f3e3ec628a38445587ec1080c17
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\a6\a69a1f3e3ec628a38445587ec1080c17
+    projectPath: Library\Artifacts\a6\a69a1f3e3ec628a38445587ec1080c17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cd\cd999c2539020b6175a754386d7971aa
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\cd\cd999c2539020b6175a754386d7971aa
+    projectPath: Library\Artifacts\cd\cd999c2539020b6175a754386d7971aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\ee46ddee6209d6bcd2c57aceabe5ff16
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\ee\ee46ddee6209d6bcd2c57aceabe5ff16
+    projectPath: Library\Artifacts\ee\ee46ddee6209d6bcd2c57aceabe5ff16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f3b6dae84ba08f3cd3c98e516b02db16
+    fullPath: D:\Unity Projects\WashYourHands\Library\Artifacts\f3\f3b6dae84ba08f3cd3c98e516b02db16
+    projectPath: Library\Artifacts\f3\f3b6dae84ba08f3cd3c98e516b02db16
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Library\gfu\cache\branches.yaml
     fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -52,15 +177,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SourceAssetDB
-    fullPath: D:\Unity Projects\WashYourHands\Library\SourceAssetDB
-    projectPath: Library\SourceAssetDB
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SourceAssetDB-lock
-    fullPath: D:\Unity Projects\WashYourHands\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
+  - path: Library\SourceAssetDB
+    fullPath: D:\Unity Projects\WashYourHands\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

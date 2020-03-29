@@ -13,17 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-03-28T20:44:59.227-05:00
+  lastUpdatedAtString: 2020-03-28T21:00:47.441-05:00
   initializedAtString: 2020-03-28T20:38:27.915-05:00
   localBranches:
   - name: master
     tracking: 
-  remoteBranches:
-  - name: origin/master
-    tracking: '[None]'
+  remoteBranches: []
   remotes:
   - name: origin
-    url: https://github.com/ryanmueller28/WashHands-GameJam-495.git
+    url: https://github.com/ryanmueller28/HandWashingSim.git
     login: 
     user: 
     host: 
@@ -39,21 +37,12 @@ MonoBehaviour:
         url: 
       trackingBranch: 
   remoteConfigBranches:
-    keys:
-    - origin
-    subKeys:
-    - Values:
-      - master
-    subKeyValues:
-    - Values:
-      - name: master
-        remote:
-          name: origin
-          url: https://github.com/ryanmueller28/WashHands-GameJam-495.git
-        trackingBranch: 
+    keys: []
+    subKeys: []
+    subKeyValues: []
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/ryanmueller28/WashHands-GameJam-495.git
+      url: https://github.com/ryanmueller28/HandWashingSim.git

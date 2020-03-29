@@ -13,9 +13,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-28T20:45:01.644-05:00
+  lastUpdatedAtString: 2020-03-28T21:00:47.887-05:00
   initializedAtString: 2020-03-28T20:36:55.221-05:00
   log:
+  - commitID: f25202618c5be63c8d42ccf5cadcfc7c38fb6280
+    mergeA: 
+    mergeB: 
+    authorName: myanrueller
+    authorEmail: 35541631+myanrueller@users.noreply.github.com
+    commitEmail: 35541631+myanrueller@users.noreply.github.com
+    commitName: myanrueller
+    summary: Main Menu, Project Design, and Solution
+    description: 
+    timeString: 2020-03-28T20:51:41.000-05:00
+    commitTimeString: 2020-03-28T20:51:41.000-05:00
+    changes:
+    - path: Assets\Scenes\MainMenu.unity
+      fullPath: D:\Unity Projects\WashYourHands\Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB
+      fullPath: D:\Unity Projects\WashYourHands\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\ArtifactDB-lock
+      fullPath: D:\Unity Projects\WashYourHands\Library\ArtifactDB-lock
+      projectPath: Library\ArtifactDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB
+      fullPath: D:\Unity Projects\WashYourHands\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\SourceAssetDB-lock
+      fullPath: D:\Unity Projects\WashYourHands\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity Projects\WashYourHands\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 5b21fe163add26dd203f7b9d8825251da08b6449
     mergeA: 
     mergeB: 
