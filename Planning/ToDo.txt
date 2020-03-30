@@ -19,3 +19,5 @@ Assets Left:
   Water
   Soiled/Contaminents
   Other Characters? (Police/Parents etc.)
+  Mirror/Location
+  Objects+Obstacles
