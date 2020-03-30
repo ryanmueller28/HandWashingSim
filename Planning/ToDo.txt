@@ -1,0 +1,21 @@
+Classes:
+
+Shared Across All Modules:
+  Input Controller
+  Animator
+  Game Manager
+    Win/Loss
+    Score
+    Timer
+   Soiled Contaminent Checker
+  
+Individual Modules:
+  Each level script if unique
+
+Assets Left:
+  Sound
+  Music
+  Sink
+  Water
+  Soiled/Contaminents
+  Other Characters? (Police/Parents etc.)
